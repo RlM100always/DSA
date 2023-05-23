@@ -1,0 +1,7 @@
+1-> 10-> 3-> 4-> 6-> 9-> 
+Current Size of Queue : 6
+After calling dequeue functinon : 1
+Current Size of Queue : 5
+10-> 3-> 4-> 6-> 9-> 
+Front value : 10
+Current Size of Queue : 5
